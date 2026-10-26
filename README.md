@@ -7,7 +7,7 @@ I started with classic machine learning and data analysis (regression, clusterin
 - 🔭 Currently building: retrieval-augmented and agentic AI applications
 - 🧠 Interested in: RAG, LLM agents (LangGraph, MCP), fine-tuning, and LLMOps
 - ☁️ Deploying with: Docker, Kubernetes (EKS), ECS Fargate, and GitHub Actions
-- 📫 Reach me: <!-- add your LinkedIn or email here -->
+- 📫 Reach me: madhukumarg9959@gmail.com
 
 ---
 
